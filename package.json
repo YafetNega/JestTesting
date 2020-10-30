@@ -1,0 +1,17 @@
+{
+  "name": "circlecitesting",
+  "version": "1.0.0",
+  "description": "CircleCI Testing with github",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Yafet Nega",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
