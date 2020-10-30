@@ -15,7 +15,7 @@ function sub(a, b){
 }
 
 function three(a, b, c){
-    return a * b * c + 42;
+    return a * b * c;
 }
 
 module.exports = {
